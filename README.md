@@ -1,4 +1,4 @@
-# Multi-Step-Stock-Price-Prediction-VAE-and-diffusion-
+# Multi-Step-Stock-Price-Prediction
 EE782 Course Project: Diffusion VAE for handling Stochasticity in Multi-Step Regression Stock Price Prediction
 
 Chanakya Varude:210070092
